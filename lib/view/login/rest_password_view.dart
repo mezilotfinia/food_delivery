@@ -6,7 +6,6 @@ import 'package:food_delivery/view/login/otp_view.dart';
 import '../../common/globs.dart';
 import '../../common/service_call.dart';
 import '../../common_widget/round_textfield.dart';
-import 'new_password_view.dart';
 
 class ResetPasswordView extends StatefulWidget {
   const ResetPasswordView({super.key});
